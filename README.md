@@ -32,6 +32,7 @@ npx hardhat <task_name>
 ```
 
 ## Run Test
+
 ```bash
 npx hardhat test
 ```
